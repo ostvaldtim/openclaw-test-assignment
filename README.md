@@ -20,6 +20,12 @@ The OpenClaw Gateway and LLM inference run locally on Windows.
 Telegram traffic is routed through an application-level proxy, so no
 system-wide VPN is required on the host machine.
 
+## Repository layout
+
+- `start-gateway.cmd` — launches the local OpenClaw gateway with proxy environment variables.
+- `SOUL.md` — character/system behavior used by the assistant.
+- `OpenClaw_Test_Assignment_OnePager_RU.pdf` — compact Russian-language project overview.
+
 ## Features
 
 - Local LLM inference
